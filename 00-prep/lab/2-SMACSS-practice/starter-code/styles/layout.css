@@ -1,0 +1,66 @@
+nav, article, aside, footer section {
+    margin: 0 auto;
+    width: 900px;
+  }
+  
+  nav {
+    margin-top: 25px;
+  }
+
+  nav ul {
+    float: right;
+  }
+  
+  nav li {
+    float: left;
+    padding-right: 2px;
+  }
+
+  .recipe li {
+    float: left;
+    width: 40%;
+    font-size: 1.3em;
+    line-height: 31px;
+  }
+  
+  aside {
+    padding-top: 30px;
+    padding-bottom: 60px
+  }
+  
+  aside img {
+    float: left;
+  }
+
+  .print, .date {
+    color: #a9a8a5;
+    font-family: 'Abel', sans-serif;
+    font-size: .8em;
+    margin: 0;
+    text-transform: uppercase;
+    margin-top: 10px;
+    margin-bottom: 33px;
+  }
+  
+  aside p {
+    padding-left: 100px;
+    width: 65%;
+    margin: 0;
+    text-indent: 0;
+  
+  }
+
+  .print {
+    text-decoration: none;
+    padding-left: 30px;
+    float: right;
+  }
+  
+  .date {
+    float: left;
+  }
+
+  .print img {
+    margin-right: 3px;
+  }
+  
