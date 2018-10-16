@@ -1,0 +1,60 @@
+@media only screen and (min-width: 768px) {
+
+    section {
+        overflow:hidden;
+    }
+
+    #a{
+        /* float: center; */
+        height: 100px;
+        width: 960px;
+
+    }
+    
+    #b{
+        float: left;
+        height: 600px;
+        width: 200px;
+    }
+
+    #c{
+        /* float: left; */
+        height: 200px;
+        width: 380px;
+    }
+    #d{
+        float: left;
+        height: 200px;
+        width: 380px;
+    }
+    #e{
+        float: left;
+        height: 250px;
+        width: 190px;
+    }
+    #f{
+        float: left;
+        height: 250px;
+        width: 190px;
+    }
+    #g{
+        float: left;
+        height: 250px;
+        width: 190px;
+    }
+    #h{
+        float: left;
+        height: 250px;
+        width: 190px;
+    }
+    #i{
+        float: left;
+        height: 150px;
+        width: 760px;
+    }
+
+    /* div {
+        float:left;
+        width:300px;
+    } */
+}
